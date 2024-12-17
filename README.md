@@ -7,12 +7,12 @@
 <br><br><br>
 
 ## 목차
-- [개요](https://github.com/new-ming/ClassIT_won#개요)
-- [기술 스택](https://github.com/new-ming/ClassIT_won#기술-스택)
-- [프로젝트 설계](https://github.com/new-ming/ClassIT_won#프로젝트-설계)
-- [핵심 기능](https://github.com/new-ming/ClassIT_won#핵심-기능)
-- [주요기능 실행화면](https://github.com/new-ming/ClassIT_won#주요기능-실행화면)
-- [개선사항](https://github.com/new-ming/ClassIT_won#개선사항)
+- [개요](https://github.com/new-ming/ClassIT#개요)
+- [기술 스택](https://github.com/new-ming/ClassIT#기술-스택)
+- [프로젝트 설계](https://github.com/new-ming/ClassIT#프로젝트-설계)
+- [핵심 기능](https://github.com/new-ming/ClassIT#핵심-기능)
+- [주요기능 실행화면](https://github.com/new-ming/ClassIT#주요기능-실행화면)
+- [개선사항](https://github.com/new-ming/ClassIT#개선사항)
 
 
 ## 개요 
